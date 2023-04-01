@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi
+timi == rex == vphruz
 
 <!--
 **vphruz/vphruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Electrical electronics engineer with a passion for cybersecurity. i'm interested in security tools written in go and python with a sprinkle of web dev
